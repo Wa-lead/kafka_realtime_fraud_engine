@@ -1,4 +1,4 @@
-# PyKafka Fraud Engine
+# Kafka Realtime Fraud Engine
 
 A real-time fraud detection pipeline built on a custom Kafka implementation. The Kafka broker, binary protocol, feature store, and rule engine are all written from scratch in Python.
 
