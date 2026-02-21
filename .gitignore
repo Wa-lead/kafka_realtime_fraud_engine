@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+*.log
+.DS_Store
+.env
+venv/
+# Ignore test artifacts
+*.sqlite3
+broker_data
